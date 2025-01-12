@@ -12,7 +12,7 @@
 
 **MENTOR NAME**: NEELA SANTOSHI
 
-**DESCRIPTION OF THE TOOL**
+# DESCRIPTION OF THE TOOL
 
 The File Integrity Checker is a robust Python-based application designed to ensure file integrity by monitoring changes to specified files. It achieves this by calculating and comparing SHA-256 hash values, providing users with a reliable mechanism to detect unauthorized modifications. Here’s a detailed breakdown of its functionality:
 
@@ -59,6 +59,8 @@ If a change is detected, the tool alerts the user and updates the hash record.
 
 Sample Output:-
 Initial Setup:
+![Screenshot 2025-01-12 190142](https://github.com/user-attachments/assets/720338bc-b69c-40fb-af83-46997a4bb4a4)
+Output after file modification:
 
 
 
