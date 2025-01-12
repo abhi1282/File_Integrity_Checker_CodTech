@@ -1,1 +1,16 @@
 # File_Integrity_Checker_CodTech
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: ABHINANDAN BAIS
+
+**DOMAIN**: CS & EH
+
+**INTERN ID**: CT08GXK
+
+**BATCH DETAILS**: December 30th, 2024 to January 30th, 2025
+
+**MENTOR NAME**: NEELA SANTOSHI
+
+
+
